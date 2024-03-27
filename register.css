@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 20px;
+}
+
+header {
+    font-size: 52px;
+}
+
+input, label {
+    margin: 10px;
+}
